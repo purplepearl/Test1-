@@ -1,7 +1,8 @@
-Digital Marketing Project Repository
+#Digital Marketing Project Repository
 
 Purpose: A complete, ready-to-use repository layout and documentation for managing end-to-end digital marketing projects — campaigns, content, analytics, paid ads, SEO, reporting and collaboration.
-🔑 Key Features
+
+#🔑 Key Features
 
 Structured Repository Layout — Organized folders for campaigns, content, analytics, personas, and reports.
 
@@ -17,7 +18,7 @@ Governance & Archiving — Onboarding docs, campaign archiving standards, approv
 
 Integration-Friendly — Compatible with GA4, GTM, Google Ads, Meta Ads, Looker Studio, Sheets, and project management tools.
 
-🏗️ Architecture Overview
+#🏗️ Architecture Overview
 1. Core Layers
 
 Documentation Layer
